@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+.venv
+env/
+venv/
+ENV/
+
+pubmed_downloads/
+downloads/
+*.csv
+!example_titles.csv
